@@ -1,3 +1,8 @@
+body{
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: 400; 
+     
+}
 .jumbotron{
     background-color: white;
 }
