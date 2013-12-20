@@ -1,0 +1,276 @@
+﻿$axure.loadCurrentPage({
+  "url":"axure.html",
+  "generationDate":new Date(1387558153429.53),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5384799042024e59a73581458bcf337a",
+    "type":"Axure:Page",
+    "name":"Axure",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFF4F4F4},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+      "a":{
+},
+      "b":{
+}},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6cd6d450d7ab4dcea4f2b960fe29fd33",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":40,
+              "y":51},
+            "size":{
+              "width":41,
+              "height":41},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+            "a":{
+},
+            "b":{
+}},
+          "objects":[{
+              "id":"b29a88e2801a4976a10eda363bb0d4f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":40,
+                  "y":51},
+                "size":{
+                  "width":41,
+                  "height":41},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+                "a":{
+},
+                "b":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Home in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"home.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/benefits/u6.png"}},
+{
+          "id":"439092bdba514d258a91a3a306429a86",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Yanone Kaffeesatz ExtraLight', 'Yanone Kaffeesatz'",
+            "fontSize":"48px",
+            "fontWeight":"200",
+            "location":{
+              "x":118,
+              "y":44},
+            "size":{
+              "width":382,
+              "height":54}},
+          "adaptiveStyles":{
+            "a":{
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFF64E050,
+                "opacity":1}},
+            "b":{
+}},
+          "objects":[{
+              "id":"d1347e541cec49ad91c4d51c117c0a2e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Yanone Kaffeesatz ExtraLight', 'Yanone Kaffeesatz'",
+                "fontSize":"48px",
+                "fontWeight":"200",
+                "location":{
+                  "x":118,
+                  "y":44},
+                "size":{
+                  "width":382,
+                  "height":54}},
+              "adaptiveStyles":{
+                "a":{
+},
+                "b":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "normal~a":"resources/images/transparent.gif",
+            "normal~b":"resources/images/transparent.gif"}},
+{
+          "id":"2fffa2876c364afab551009f60c24af8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Yanone Kaffeesatz ExtraLight', 'Yanone Kaffeesatz'",
+            "fontSize":"32px",
+            "fontWeight":"200",
+            "lineSpacing":"36px",
+            "location":{
+              "x":616,
+              "y":160},
+            "size":{
+              "width":630,
+              "height":508}},
+          "adaptiveStyles":{
+            "a":{
+              "fontSize":"48px",
+              "lineSpacing":"56px",
+              "location":{
+                "x":842,
+                "y":212},
+              "size":{
+                "width":868,
+                "height":778}},
+            "b":{
+              "fontSize":"28px",
+              "lineSpacing":"36px",
+              "location":{
+                "x":683,
+                "y":172},
+              "size":{
+                "width":563,
+                "height":496}}},
+          "objects":[{
+              "id":"117d9d58b62943cd82d814d1146b5658",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Yanone Kaffeesatz ExtraLight', 'Yanone Kaffeesatz'",
+                "fontSize":"32px",
+                "fontWeight":"200",
+                "lineSpacing":"36px",
+                "location":{
+                  "x":616,
+                  "y":160},
+                "size":{
+                  "width":630,
+                  "height":508}},
+              "adaptiveStyles":{
+                "a":{
+},
+                "b":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "normal~a":"resources/images/transparent.gif",
+            "normal~b":"resources/images/transparent.gif"}},
+{
+          "id":"075f70566cc6482e9553389c923cb925",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":280,
+              "y":399},
+            "size":{
+              "width":435,
+              "height":408},
+            "limbo":true},
+          "adaptiveStyles":{
+            "a":{
+              "location":{
+                "x":235,
+                "y":192},
+              "limbo":false},
+            "b":{
+              "location":{
+                "x":140,
+                "y":152}}},
+          "objects":[{
+              "id":"1c515bce05c24d7790c9f7201af47804",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":280,
+                  "y":399},
+                "size":{
+                  "width":435,
+                  "height":408},
+                "limbo":true},
+              "adaptiveStyles":{
+                "a":{
+},
+                "b":{
+}}}],
+          "images":{
+            "normal~":"images/axure/u6.png",
+            "normal~a":"images/axure/u6.png",
+            "normal~b":"images/axure/u6.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6cd6d450d7ab4dcea4f2b960fe29fd33":{
+      "scriptId":"u0"},
+    "b29a88e2801a4976a10eda363bb0d4f9":{
+      "scriptId":"u1"},
+    "439092bdba514d258a91a3a306429a86":{
+      "scriptId":"u2"},
+    "d1347e541cec49ad91c4d51c117c0a2e":{
+      "scriptId":"u3"},
+    "2fffa2876c364afab551009f60c24af8":{
+      "scriptId":"u4"},
+    "117d9d58b62943cd82d814d1146b5658":{
+      "scriptId":"u5"},
+    "075f70566cc6482e9553389c923cb925":{
+      "scriptId":"u6"},
+    "1c515bce05c24d7790c9f7201af47804":{
+      "scriptId":"u7"}}});

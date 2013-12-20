@@ -1,0 +1,184 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(244, 244, 244, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1246px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:40px;
+  top:51px;
+  width:41px;
+  height:41px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:41px;
+  height:41px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:37px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:118px;
+  top:44px;
+  width:382px;
+  height:54px;
+  font-family:'Yanone Kaffeesatz ExtraLight', 'Yanone Kaffeesatz';
+  font-weight:200;
+  font-size:48px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:382px;
+  height:54px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:382px;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:616px;
+  top:160px;
+  width:630px;
+  height:508px;
+  font-family:'Yanone Kaffeesatz ExtraLight', 'Yanone Kaffeesatz';
+  font-weight:200;
+  font-size:32px;
+  line-height:36px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:630px;
+  height:508px;
+}
+#u5 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:630px;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:280px;
+  top:399px;
+  width:435px;
+  height:408px;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:435px;
+  height:408px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:196px;
+  width:431px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+body.a {  background-color:rgba(244, 244, 244, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1710px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+}
+#u2.a {
+}
+#u2_img.a {
+}
+#u3.a {
+}
+#u4.a {
+  left:842px;
+  top:212px;
+  width:868px;
+  height:778px;
+}
+#u4_img.a {
+  width:868px;
+  height:778px;
+}
+#u5.a {
+  width:868px;
+}
+#u6.a {
+  left:235px;
+  top:192px;
+}
+#u6_img.a {
+}
+#u7.a {
+}
+body.b {  background-color:rgba(244, 244, 244, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1246px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.b {
+}
+#u2.b {
+}
+#u2_img.b {
+}
+#u3.b {
+}
+#u4.b {
+  left:683px;
+  top:172px;
+  width:563px;
+  height:496px;
+}
+#u4_img.b {
+  width:563px;
+  height:496px;
+}
+#u5.b {
+  width:563px;
+}
+#u6.b {
+  left:140px;
+  top:152px;
+}
+#u6_img.b {
+}
+#u7.b {
+}
