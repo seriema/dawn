@@ -4,7 +4,7 @@ body{
 }
 h1{
     font-family: 'Yanone Kaffeesatz';
-    font-weight: 400;
+    font-weight: 700;   
 }
 .container {
     width: 550px;
@@ -12,9 +12,13 @@ h1{
 .jumbotron {
     background-color: transparent;
     background-image: url('../img/device.png');
+    background-size: 500px 300px;
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 70px;
+    padding:  70px;
+    padding-top: 40px;
+    padding-bottom: 90px;
+
 }
 .axure {
     color: #f3f3f3;
@@ -22,6 +26,8 @@ h1{
 }
 .splash h1 {
      color: #64e050;
+     font-size: 80px;
+     letter-spacing: 0.1em;
 }
 .blurbs {
     background-color: #efefef;
@@ -49,4 +55,16 @@ footer {
 }
 footer img {
     fill: #64e050;
+}
+a.dl-link {
+    width: 150px;
+    border-radius: 0;
+}
+a.dl-link img {
+    height: 40px;
+}
+.center-y{
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
 }
