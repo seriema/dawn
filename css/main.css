@@ -1,3 +1,8 @@
+@media screen and (max-width: 568px) {
+    .mobile {
+        font-size:2em;
+    }
+}
 body{
     font-family: 'Yanone Kaffeesatz';
     font-weight: 400; 
@@ -5,6 +10,9 @@ body{
 h1{
     font-family: 'Yanone Kaffeesatz';
     font-weight: 700;   
+}
+.splash{
+    position: relative;
 }
 .container {
     width: 550px;
@@ -18,7 +26,14 @@ h1{
     padding:  70px;
     padding-top: 40px;
     padding-bottom: 90px;
+    position: relative;
 
+}
+.gradient{
+    position: absolute;
+    top: 30px;
+    height: 200px;
+    background: linear-gradient(0deg, rgba(239,239,239, 1), rgba(255,255,255,1));
 }
 .axure {
     color: #f3f3f3;
