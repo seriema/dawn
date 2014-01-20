@@ -2,6 +2,12 @@
     .mobile {
         font-size:2em;
     }
+    .jumbotron {
+        background-color: white;
+    }
+    #abstract{
+        font-size: 1em;    
+    }
 }
 body{
     font-family: 'Yanone Kaffeesatz';
@@ -19,7 +25,6 @@ h1{
 }
 .jumbotron {
     background-color: transparent;
-    background: linear-gradient(0deg, rgba(239,239,239, 1), rgba(255,255,255,1));
     background-image:  url('../img/device.png');
     background-size: 500px 300px;
     background-repeat: no-repeat;
@@ -28,10 +33,9 @@ h1{
     padding-top: 40px;
     padding-bottom: 90px;
     position: relative;
-
 }
 .gradient{
-    position: absolute;
+    position: static;
     top: 30px;
     background: linear-gradient(0deg, rgba(239,239,239, 1), rgba(255,255,255,1));
 }
@@ -72,14 +76,17 @@ footer img {
     fill: #64e050;
 }
 a.dl-link {
-    width: 150px;
+    width: 130px;
+    height: 60px;
     border-radius: 0;
 }
 a.dl-link img {
-    height: 40px;
+    height: 30px;
 }
 .center-y{
     text-align: center;
     vertical-align: middle;
     display: table-cell;
+    padding-left: 3px;
+    padding-right: 3px;
 }
