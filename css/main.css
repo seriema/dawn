@@ -1,4 +1,4 @@
-@media screen and (max-width: 765px) {
+@media screen and (max-width: 768px) {
     .mobile {
         font-size:2em;
     }
@@ -19,7 +19,8 @@ h1{
 }
 .jumbotron {
     background-color: transparent;
-    background-image: url('../img/device.png');
+    background: linear-gradient(0deg, rgba(239,239,239, 1), rgba(255,255,255,1));
+    background-image:  url('../img/device.png');
     background-size: 500px 300px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -32,7 +33,6 @@ h1{
 .gradient{
     position: absolute;
     top: 30px;
-    height: 200px;
     background: linear-gradient(0deg, rgba(239,239,239, 1), rgba(255,255,255,1));
 }
 .axure {
