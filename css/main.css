@@ -1,14 +1,3 @@
-@media screen and (max-width: 768px) {
-    .mobile {
-        font-size:2em;
-    }
-    .jumbotron {
-        background-color: white;
-    }
-    #abstract{
-        font-size: 1em;    
-    }
-}
 body{
     font-family: 'Yanone Kaffeesatz';
     font-weight: 400; 
@@ -89,4 +78,58 @@ a.dl-link img {
     display: table-cell;
     padding-left: 3px;
     padding-right: 3px;
+}
+.mobile-header{
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    h1{
+        font-size: 7em;     
+    }
+    
+    
+    a.dl-link {
+        width: 260px;
+        height: 120px;
+        border-radius: 0;
+    }   
+    a.dl-link img {
+        height: 60px;
+    }
+
+    .container{
+        padding-top: 0;
+    }
+
+    .jumbotron {
+        display: none;
+    }
+
+    .mobile {
+        font-size:2em;
+    }
+    .mobile-header{
+        display: inline;    
+    }    
+    .mobile-header .btn-primary {
+        background-color: #64e050;
+        border: 0 none transparent;
+    }
+    .mobile-header .btn-primary:hover {
+        background-color: green;
+    }
+    
+    section {
+        padding-top: 20px;
+    }
+    
+    span{
+        font-size: 3em;    
+    }
+
+    p.lead{
+        font-size: 4em;
+    }
+
 }
