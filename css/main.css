@@ -2,56 +2,7 @@ body{
     font-family: 'Yanone Kaffeesatz';
     font-weight: 400; 
 }
-h1{
-    font-family: 'Yanone Kaffeesatz';
-    font-weight: 700;   
-}
-.splash{
-    position: relative;
-}
-.container {
-    width: 550px;
-}
-.jumbotron {
-    background-color: transparent;
-    background-image:  url('../img/device.png');
-    background-size: 500px 300px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding:  70px;
-    padding-top: 40px;
-    padding-bottom: 90px;
-    position: relative;
-}
-.gradient{
-    position: static;
-    top: 30px;
-    background: linear-gradient(0deg, rgba(239,239,239, 1), rgba(255,255,255,1));
-}
-.axure {
-    color: #f3f3f3;
-    background-color: #2a2a2a;
-}
-.splash h1 {
-     color: #64e050;
-     font-size: 80px;
-     letter-spacing: 0.1em;
-}
-.blurbs {
-    background-color: #efefef;
-    border-bottom: 6px solid #333;
-    border-top: 6px solid #333;
-}
-.splash .btn-primary {
-    background-color: #64e050;
-    border: 0 none transparent;
-}
-.splash .btn-primary:hover {
-    background-color: green;
-}
-section {
-    padding: 50px;
-}
+
 em {
     color: #64e050;
     font-style: normal;
@@ -64,6 +15,16 @@ footer {
 footer img {
     fill: #64e050;
 }
+
+h1{
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: 700;   
+}
+
+section {
+    padding: 50px;
+}
+
 a.dl-link {
     width: 130px;
     height: 60px;
@@ -72,6 +33,18 @@ a.dl-link {
 a.dl-link img {
     height: 30px;
 }
+
+.axure {
+    color: #f3f3f3;
+    background-color: #2a2a2a;
+}
+
+.blurbs {
+    background-color: #efefef;
+    border-bottom: 6px solid #333;
+    border-top: 6px solid #333;
+}
+
 .center-y{
     text-align: center;
     vertical-align: middle;
@@ -79,8 +52,47 @@ a.dl-link img {
     padding-left: 3px;
     padding-right: 3px;
 }
+
+.container {
+    width: 550px;
+}
+
+.jumbotron {
+    background-color: transparent;
+    background-image:  url('../img/device.png');
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding:  70px;
+    padding-top: 40px;
+    padding-bottom: 90px;
+    position: relative;
+}
+
+.gradient{
+    position: static;
+    top: 30px;
+    background: linear-gradient(0deg, rgba(239,239,239, 1), rgba(255,255,255,1));
+}
+
 .mobile-header{
     display: none;
+}
+
+.splash h1 {
+     color: #64e050;
+     font-size: 80px;
+     letter-spacing: 0.1em;
+}
+.splash{
+    position: relative;
+}
+.splash .btn-primary {
+    background-color: #64e050;
+    border: 0 none transparent;
+}
+.splash .btn-primary:hover {
+    background-color: green;
 }
 
 @media screen and (max-width: 768px) {
